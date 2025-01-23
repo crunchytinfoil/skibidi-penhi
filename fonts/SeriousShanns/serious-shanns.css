@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "Serious Shanns";
+
+  src: url("./SeriousShanns-Regular.otf") format("opentype");
+
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Serious Shanns";
+  src: url("./SeriousShanns-Bold.otf") format("opentype");
+
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Serious Shanns";
+  src: url("./SeriousShanns-Light.otf") format("opentype");
+
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Serious Shanns";
+  src: url("./SeriousShanns-Italic.otf") format("opentype");
+
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Serious Shanns";
+  src: url("./SeriousShanns-BoldItalic.otf") format("opentype");
+
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Serious Shanns";
+  src: url("./SeriousShanns-LightItalic.otf") format("opentype");
+
+  font-weight: 300;
+  font-style: italic;
+}
